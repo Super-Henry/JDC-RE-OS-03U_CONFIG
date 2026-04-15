@@ -6,7 +6,7 @@ src-git routing https://github.com/coolsnowwolf/routing
 
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 
-src-git passwall https://github.com/xiaorouji/openwrt-passwall
+#src-git passwall https://github.com/xiaorouji/openwrt-passwall
 
 #src-git telephony https://git.openwrt.org/feed/telephony.git
 
